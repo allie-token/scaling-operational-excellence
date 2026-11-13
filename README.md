@@ -1,42 +1,65 @@
-
 # Scaling Operational Excellence
 
 ### Operations Case Study Portfolio | Interactive Excel Dashboard
 
-An independently developed operations case study portfolio demonstrating how structured workflows, automated calculations, and performance reporting can improve operational efficiency, accountability, and decision-making.
+An independently developed operations portfolio demonstrating how structured workflows, automated calculations, and performance reporting can improve operational visibility, accountability, and decision-making.
 
-## About This Project
+---
 
-This repository contains the interactive Excel workbook developed as the technical companion to my *Scaling Operational Excellence* operations case study portfolio.
+## Interactive Vendor Onboarding Dashboard
 
-Using synthetic onboarding data from 60 vendors, the workbook demonstrates how centralized tracking and formula-driven reporting can improve visibility into onboarding progress, operational delays, and workflow bottlenecks.
+![Vendor Onboarding Dashboard Preview](dashboard-preview.png)
+
+**A centralized Excel-based tracking and reporting system built using 60 synthetic vendor onboarding records.**
+
+The workbook combines structured milestone tracking, formula-driven status classifications, blocker identification, and dynamic KPI reporting to demonstrate how operational data can be transformed into actionable insights.
+
+### 📥 Download the Interactive Excel Workbook
+
+**[DOWNLOAD EXCEL WORKBOOK](Vendor_Onboarding_Tracker-Portfolio_Case_Study.xlsx)**
+
+Download the workbook and open it in Microsoft Excel to explore the tracker, modify sample data, and observe the dashboard update automatically.
+
+*No GitHub account is required to download the workbook.*
+
+---
+
+## About the Project
+
+This workbook serves as the technical companion to my *Scaling Operational Excellence* operations case study portfolio.
+
+The project explores how centralized tracking, standardized inputs, and automated reporting can support more consistent onboarding workflows, earlier identification of operational bottlenecks, and better-informed decisions.
+
+Rather than relying on disconnected updates or manually compiled reports, the proposed system consolidates key onboarding milestones, assigned ownership, blockers, and performance indicators into one structured workbook.
 
 ## Workbook Features
 
-- **Vendor Onboarding Tracker:** Structured milestone tracking, assigned ownership, target dates, and blocker identification.
-- **Automated Status Classification:** Formula-driven status calculations based on onboarding progress and outstanding milestones.
-- **Interactive KPI Dashboard:** Visual reporting of activation progress, onboarding status, blockers, and performance metrics.
-- **Data Validation:** Standardized inputs and structured data organization to support consistent reporting.
-- **Workflow Visibility:** Centralized information to support prioritization and proactive decision-making.
+| Component | Function |
+|---|---|
+| **Vendor Tracker** | Tracks vendor onboarding milestones, target dates, assigned ownership, and outstanding blockers. |
+| **Automated Status Classification** | Uses Excel formulas to calculate overall onboarding status based on milestone progress and relevant conditions. |
+| **Interactive KPI Dashboard** | Visualizes activation progress, onboarding status distribution, delays, and blocker categories. |
+| **Data Validation** | Standardizes inputs to support consistent tracking and reliable reporting. |
+| **Operational Reporting** | Provides consolidated metrics to support prioritization and workflow visibility. |
 
 ## How to Explore the Workbook
 
-1. Download the `.xlsx` file from this repository.
-2. Open the workbook in Microsoft Excel.
-3. Navigate to the **Vendor Tracker** worksheet.
-4. Modify sample milestone statuses or other relevant inputs.
-5. Navigate to the **Dashboard** worksheet to observe how the automated calculations and performance metrics respond.
+1. Download the Excel workbook using the link above.
+2. Open the file in Microsoft Excel.
+3. Review the **Project Overview** worksheet for context.
+4. Navigate to **Vendor Tracker** and modify sample milestone statuses.
+5. Open **Dashboard** to observe the updated calculations and KPI visualizations.
 
-The workbook contains four worksheets:
-- Project Overview
-- Vendor Tracker
-- Dashboard
-- Lists & Settings
+The workbook contains four worksheets: **Project Overview**, **Vendor Tracker**, **Dashboard**, and **Lists & Settings**.
 
 ## Skills Demonstrated
 
-Microsoft Excel | Workflow Automation | Data Validation | Process Improvement | KPI Tracking | Dashboard Development | Operational Reporting
+Microsoft Excel · Workflow Automation · Data Validation · Process Improvement · KPI Tracking · Dashboard Development · Operational Reporting · Workflow Design
 
-## Disclaimer
+---
+
+### Project Disclaimer
 
 All vendor records, operational scenarios, and performance data are synthetic and illustrative. This project does not represent actual business operations or contain proprietary organizational information.
+
+**Developed independently by Allison Token.**
