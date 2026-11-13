@@ -16,11 +16,11 @@ The workbook combines structured milestone tracking, formula-driven status class
 
 ### 📥 Download the Interactive Excel Workbook
 
-**[DOWNLOAD EXCEL WORKBOOK](Vendor_Onboarding_Tracker-Portfolio_Case_Study.xlsx)**
+**[⬇️ DOWNLOAD EXCEL WORKBOOK](https://github.com/allie-token/scaling-operational-excellence/raw/refs/heads/main/Vendor_Onboarding_Tracker-Portfolio_Case_Study.xlsx)**
 
-Download the workbook and open it in Microsoft Excel to explore the tracker, modify sample data, and observe the dashboard update automatically.
+**Click the link above to download the Excel workbook directly.** Open the downloaded `.xlsx` file in Microsoft Excel, modify sample milestone statuses in the Vendor Tracker, and watch the Dashboard update automatically.
 
-*No GitHub account is required to download the workbook.*
+*No GitHub account required. The original workbook remains unchanged.*
 
 ---
 
